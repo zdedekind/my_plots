@@ -8,7 +8,7 @@ from matplotlib.colors import LogNorm
 def masking(var,var2,var2_lim,var3,miss):
     x = np.zeros((var.shape[0],var.shape[1],var.shape[2],var.shape[3]))
     x[:] = var
-    x[((var2 < var2_lim - 5) | (var2 >= var2_lim) | (var3 > 400))] = miss
+    x[((var2 < var2_lim - 5) | (var2 >= var2_lim) | (var3 > 300)) | (var3 < 200)] = miss
     x = np.ma.masked_equal(x,-999)
     print(var2_lim)
     #x = x[~x.mask]
@@ -48,9 +48,9 @@ def main():
     
     #--------------------------------------------
     #SWITCHES FOR GENERATING FIGURES
-    f_2dhist = False
+    f_2dhist = True
     f_temp_pres = True
-    f_temp_rhi = False
+    f_temp_rhi = True
 
     #---------------------------------------------
     #FILE DIRECTORIES
@@ -86,8 +86,8 @@ def main():
     #GENERATE VARIABLES FOR 2D-HIST
     tt_rhli = tt[np.where(rhli > 90)]
     pp_rhli = pp[np.where(rhli > 90)]
-    tt_pres = tt[np.where(pp < 400)]
-    rhli_pres = rhli[np.where(pp < 400)]
+    tt_pres = tt[np.where((pp < 300) & (pp>200))]
+    rhli_pres = rhli[np.where((pp < 300) & (pp>200))]
 
     #----------------------------------------
     #MASK RHI IN SPECIFIC TEMP AND PRES RANGE
@@ -114,7 +114,7 @@ def main():
 
     #---------------------------------------------------------
     #GENERATE FIGURES
-    hbin=20
+    hbin=30
     if f_2dhist == True:
         f, ((ax7,ax8,ax9),(ax1,ax2,ax3),(ax4,ax5,ax6)) = plt.subplots(3,3,figsize=(16,12))#,sharex=True,sharey=True)
         f.suptitle('RHi distribution over Temperature for Pressure < 400 mb')
