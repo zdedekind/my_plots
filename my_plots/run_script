@@ -1,0 +1,21 @@
+#ord_soumet=-c 3x40x2 -t 3600 -m 160G -jn openmp_mpi
+# You can use the line above as the first line of your script to provide options to ord_soumet
+# (alternatively provide them on the command line after the job script name).
+#
+#PBS -l select=3:ncpus=80:mpiprocs=40:ompthreads=2:mem=160gb
+#PBS -N openmp_mpi
+#PBS -l place=scatter
+#PBS -l walltime=1:0:0
+
+
+. ssmuse-sh -x /fs/ssm/main/opt/intelcomp/inteloneapi-2022.1.2/intelcomp+mpi+mkl
+# No need to define UCX_NET_DEVICES and I_MPI_HYDRA_BOOTSTRAP anymore if using site profile 20220330, 20220330-pbs or latest.
+##export UCX_NET_DEVICES=mlx5_0:1 # on robert, underhill, ppp5 and ppp6
+### export UCX_NET_DEVICES=mlx5_1:1 # on ppp5t
+##export I_MPI_HYDRA_BOOTSTRAP=ssh # The default is pbs, but works only on Torque, not PBS Pro
+export KMP_AFFINITY=compact # Allows pinning the threads
+
+# Got to the work directory
+cd /home/zde001/scripts/python/my_plots
+
+mpirun -n 240 $PWD/temp.py

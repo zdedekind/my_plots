@@ -1,0 +1,9 @@
+shortcut.dot /fs/ssm/eccc/mrd/rpn/code-tools/ENV/cdt-1.5.7-inteloneapi-2022.1.2
+(INFO) using delayed mode
+SHORTCUT BUNDLE PATH=/fs/ssm/eccc/mrd/rpn/code-tools/ENV/cdt-1.5.7-inteloneapi-2022.1.2
+USING DOMAIN /fs/ssm/main/opt/intelcomp/inteloneapi-2022.1.2/intelcomp+mpi+mkl
+SHORTCUT BUNDLE PATH=/fs/ssm/eccc/mrd/rpn/code-tools/ENV/cdt-1.5.7-inteloneapi-2022.1.2
+USING DOMAIN /fs/ssm/eccc/mrd/rpn/code-tools/1.5.6
+(INFO): EC_ARCH = rhel-8-icelake-64/inteloneapi-2022.1.2
+Attaching 2076026 to 3519567.ppp5pbs-001-ib
+Attaching 3077150 to 3519567.ppp5pbs-001-ib

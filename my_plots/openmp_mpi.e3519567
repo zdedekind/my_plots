@@ -1,0 +1,85 @@
+=== ordenv: version 4.5 ===
+=== ordenv: master/default ===
+=== ordenv: system/init ===
+=== ordenv: system/site ===
+=== ordenv: sourcing site:20230201 ===
+info: jobctl cell (ppp5.science.gc.ca)
+=== ordenv: system/comm ===
+=== ordenv: sourcing comm:eccc/20221118 ===
+=== ordenv: system/group ===
+=== ordenv: sourcing group:eccc/cmc/1.12.0 ===
+=== ordenv: system/user ===
+=== ordenv: sourcing user:default/post ===
+stty: 'standard input': Inappropriate ioctl for device
+=== ordenv: completed ===
+(INFO) Profile load time: 0.958s
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:1@ppp5cn-100] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:1@ppp5cn-100] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:1@ppp5cn-100] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:1@ppp5cn-100] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:1@ppp5cn-100] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:1@ppp5cn-100] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:1@ppp5cn-100] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:1@ppp5cn-100] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:1@ppp5cn-100] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:1@ppp5cn-100] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:1@ppp5cn-100] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:1@ppp5cn-100] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:1@ppp5cn-100] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:1@ppp5cn-100] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:1@ppp5cn-100] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:1@ppp5cn-100] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:1@ppp5cn-100] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:1@ppp5cn-100] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[proxy:0:2@ppp5cn-103] HYD_spawn (../../../../../src/pm/i_hydra/libhydra/spawn/intel/hydra_spawn.c:146): execvp error on file /home/zde001/scripts/python/my_plots/temp.py (Permission denied)
+[mpiexec@ppp5cn-048] cmd_bcast_root (../../../../../src/pm/i_hydra/mpiexec/mpiexec.c:196): assert (!closed) failed
+[mpiexec@ppp5cn-048] send_signal_downstream (../../../../../src/pm/i_hydra/mpiexec/intel/i_mpiexec.c:584): unable to send response downstream
+[mpiexec@ppp5cn-048] control_cb (../../../../../src/pm/i_hydra/mpiexec/mpiexec.c:1648): unable to send signal to downstreams
+[mpiexec@ppp5cn-048] HYDI_dmx_poll_wait_for_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:80): callback returned error status
+[mpiexec@ppp5cn-048] main (../../../../../src/pm/i_hydra/mpiexec/mpiexec.c:2083): error waiting for event
+cleaning up temporary directories
